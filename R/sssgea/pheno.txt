@@ -1,0 +1,15 @@
+num1	num2
+P9	low
+P11	low
+P12	low
+P15	low
+P19	low
+P21	low
+P22	low
+P24	low
+P30	low
+P27	low
+P1	high
+P3	high
+P4	high
+P7	high

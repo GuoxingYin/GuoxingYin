@@ -1,0 +1,11 @@
+ID	Group
+M_2iL_3	M_2iL
+M_2iL_5	M_2iL
+M_2iL_F_3	M_2iL_F
+M_2iL_F_5	M_2iL_F
+M_A2iL_3	M_A2iL
+M_A2iL_5	M_A2iL
+M_LCDM_3	M_LCDM
+M_LCDM_5	M_LCDM
+M_SL_3	M_SL
+M_SL_5	M_SL

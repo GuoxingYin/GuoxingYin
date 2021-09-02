@@ -1,0 +1,15 @@
+	IR_index	Response
+P1	high	DC
+P3	high	DC
+P4	high	DC
+P7	high	DC
+P9	low	PD
+P11	low	PD
+P12	low	PD
+P15	low	PD
+P19	low	PD
+P21	low	PD
+P22	low	PD
+P24	low	PD
+P30	low	PD
+P27	low	DC

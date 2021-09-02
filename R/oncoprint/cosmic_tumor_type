@@ -1,0 +1,960 @@
+ABI1	AML	Acute myeloid leukemia
+ABI1	LEUKEMIA	Leukemia
+ABL1	LEUKEMIA	Leukemia
+ABL1	ALL	Acute lymphoblastic leukemia
+ABL1	LEUKEMIA	Leukemia
+ABL1	ALL	Acute lymphoblastic leukemia
+ABL1	LEUKEMIA	Leukemia
+ABL2	AML	Acute myeloid leukemia
+ABL2	LEUKEMIA	Leukemia
+ACSL3	PROC	Prostate cancer 
+ACSL6	AML	Acute myeloid leukemia
+ACSL6	LEUKEMIA	Leukemia
+ACSL6	LEUKEMIA	Leukemia
+ACVR1	GLIOMA	Glioma
+ACVR2A	GASC	Gastric cancer
+ACVR2A	PANC	Pancreatic cancer
+ACVR2A	ESCA	Esophageal carcinoma
+AFF1	LEUKEMIA	Leukemia
+AFF3	ALL	Acute lymphoblastic leukemia
+AFF3	LEUKEMIA	Leukemia
+AFF3	ALL	Acute lymphoblastic leukemia
+AFF3	LEUKEMIA	Leukemia
+AFF4	ALL	Acute lymphoblastic leukemia
+AFF4	LEUKEMIA	Leukemia
+AKAP9	THCA	Thyroid carcinoma
+AKT1	BREC	Breast cancer
+AKT1	COREC	Colorectal cancer
+AKT1	OC	Ovarian cancer 
+AKT1	LC	Lung cancer
+AKT1	NSCLC	Non small cell lung carcinoma
+AKT2	OC	Ovarian cancer 
+AKT2	PANC	Pancreatic cancer
+ALK	LYMPHOMA	Lymphoma
+ALK	LC	Lung cancer
+ALK	NSCLC	Non small cell lung carcinoma
+ALK	NB	Neuroblastoma
+APC	COREC	Colorectal cancer
+APC	PANC	Pancreatic cancer
+APC	HC	Hepatocarcinoma
+APC	GLIOMA	Glioma
+AR	PROC	Prostate cancer 
+ARHGAP26	AML	Acute myeloid leukemia
+ARHGAP26	LEUKEMIA	Leukemia
+ARHGEF12	AML	Acute myeloid leukemia
+ARHGEF12	LEUKEMIA	Leukemia
+ARID1A	OC	Ovarian cancer 
+ARID1A	RC	Renal cancer
+ARID1A	BREC	Breast cancer
+ARID1B	BREC	Breast cancer
+ARID1B	HC	Hepatocarcinoma
+ARID2	HC	Hepatocarcinoma
+ARNT	AML	Acute myeloid leukemia
+ARNT	LEUKEMIA	Leukemia
+ASXL1	LEUKEMIA	Leukemia
+ATF1	MELANOMA	melanoma
+ATIC	LYMPHOMA	Lymphoma
+ATM	LEUKEMIA	Leukemia
+ATR	UTEC	Uterine cancer
+ATR	GASC	Gastric cancer
+ATR	OC	Ovarian cancer 
+ATR	MYELOMA	myeloma 
+ATRX	PANC	Pancreatic cancer
+ATRX	GLIOMA	Glioma
+AXIN1	COREC	Colorectal cancer
+AXIN1	UTEC	Uterine cancer
+AXIN1	PROC	Prostate cancer 
+AXIN1	HC	Hepatocarcinoma
+AXIN1	HC	Hepatocarcinoma
+AXIN1	GLIOMA	Glioma
+AXIN1	MB	Medulloblastoma
+AXIN2	COREC	Colorectal cancer
+AXIN2	GASC	Gastric cancer
+AXIN2	HC	Hepatocarcinoma
+B2M	LYMPHOMA	Lymphoma
+B2M	MYELOMA	myeloma 
+B2M	COREAD	Colorectal adenocarcinoma
+B2M	COREC	Colorectal cancer
+BAP1	MYELOMA	myeloma 
+BAP1	BREC	Breast cancer
+BAP1	LC	Lung cancer
+BAP1	NSCLC	Non small cell lung carcinoma
+BAP1	RC	Renal cancer
+BCL10	LYMPHOMA	Lymphoma
+BCL11A	LEUKEMIA	Leukemia
+BCL11B	ALL	Acute lymphoblastic leukemia
+BCL11B	LEUKEMIA	Leukemia
+BCL2	LYMPHOMA	Lymphoma
+BCL2	CLL	Chronic lymphocytic leukemia
+BCL2	LEUKEMIA	Leukemia
+BCL3	CLL	Chronic lymphocytic leukemia
+BCL3	LEUKEMIA	Leukemia
+BCL5	CLL	Chronic lymphocytic leukemia
+BCL5	LEUKEMIA	Leukemia
+BCL6	LYMPHOMA	Lymphoma
+BCL6	CLL	Chronic lymphocytic leukemia
+BCL6	LEUKEMIA	Leukemia
+BCL7A	LYMPHOMA	Lymphoma
+BCL9	LEUKEMIA	Leukemia
+BCL9L	COREC	Colorectal cancer
+BCL9L	UTEC	Uterine cancer
+BCL9L	GASC	Gastric cancer
+BCOR	AML	Acute myeloid leukemia
+BCOR	LEUKEMIA	Leukemia
+BCOR	LEUKEMIA	Leukemia
+BCORL1	AML	Acute myeloid leukemia
+BCORL1	LEUKEMIA	Leukemia
+BCORL1	HNC	Head and neck cancer
+BCR	LEUKEMIA	Leukemia
+BCR	ALL	Acute lymphoblastic leukemia
+BCR	LEUKEMIA	Leukemia
+BCR	AML	Acute myeloid leukemia
+BCR	LEUKEMIA	Leukemia
+BIRC3	CLL	Chronic lymphocytic leukemia
+BIRC3	LEUKEMIA	Leukemia
+BIRC3	LYMPHOMA	Lymphoma
+BIRC3	LYMPHOMA	Lymphoma
+BIRC3	MM	Multiple myeloma
+BRAF	MYELOMA	myeloma 
+BRAF	COREC	Colorectal cancer
+BRAF	THCA	Thyroid carcinoma
+BRAF	OC	Ovarian cancer 
+BRAF	LC	Lung cancer
+BRAF	NSCLC	Non small cell lung carcinoma
+BRAF	GLIOMA	Glioma
+BRAF	PANC	Pancreatic cancer
+BRAF	PROC	Prostate cancer 
+BRAF	GASC	Gastric cancer
+BRCA1	OC	Ovarian cancer 
+BRCA2	BREC	Breast cancer
+BRCA2	OC	Ovarian cancer 
+BRCA2	PANC	Pancreatic cancer
+BTG1	LEUKEMIA	Leukemia
+BTK	CLL	Chronic lymphocytic leukemia
+BTK	LEUKEMIA	Leukemia
+C15orf65	LYMPHOMA	Lymphoma
+C2orf44	COREC	Colorectal cancer
+CANT1	PROC	Prostate cancer 
+CARD11	LYMPHOMA	Lymphoma
+CARS	LYMPHOMA	Lymphoma
+CASC5	AML	Acute myeloid leukemia
+CASC5	LEUKEMIA	Leukemia
+CASP8	HC	Hepatocarcinoma
+CASP8	BREC	Breast cancer
+CBFA2T3	AML	Acute myeloid leukemia
+CBFA2T3	LEUKEMIA	Leukemia
+CBFB	AML	Acute myeloid leukemia
+CBFB	LEUKEMIA	Leukemia
+CBL	AML	Acute myeloid leukemia
+CBL	LEUKEMIA	Leukemia
+CBL	LEUKEMIA	Leukemia
+CBLB	AML	Acute myeloid leukemia
+CBLB	LEUKEMIA	Leukemia
+CBLC	AML	Acute myeloid leukemia
+CBLC	LEUKEMIA	Leukemia
+CCDC6	THCA	Thyroid carcinoma
+CCDC6	LEUKEMIA	Leukemia
+CCDC6	LC	Lung cancer
+CCDC6	NSCLC	Non small cell lung carcinoma
+CCND1	CLL	Chronic lymphocytic leukemia
+CCND1	LEUKEMIA	Leukemia
+CCND1	LEUKEMIA	Leukemia
+CCND1	BREC	Breast cancer
+CCND2	LYMPHOMA	Lymphoma
+CCND2	CLL	Chronic lymphocytic leukemia
+CCND2	LEUKEMIA	Leukemia
+CCND3	MM	Multiple myeloma
+CCNE1	OC	Ovarian cancer 
+CD274	LYMPHOMA	Lymphoma
+CD74	LC	Lung cancer
+CD74	NSCLC	Non small cell lung carcinoma
+CD79A	LYMPHOMA	Lymphoma
+CD79B	LYMPHOMA	Lymphoma
+CDH1	BREC	Breast cancer
+CDH1	GASC	Gastric cancer
+CDK12	OC	Ovarian cancer 
+CDK6	ALL	Acute lymphoblastic leukemia
+CDK6	LEUKEMIA	Leukemia
+CDKN1B	BREC	Breast cancer
+CDKN2A	MYELOMA	myeloma 
+CDKN2A(p14)	MYELOMA	myeloma 
+CDKN2C	GLIOMA	Glioma
+CDKN2C	MM	Multiple myeloma
+CDX2	AML	Acute myeloid leukemia
+CDX2	LEUKEMIA	Leukemia
+CEBPA	AML	Acute myeloid leukemia
+CEBPA	LEUKEMIA	Leukemia
+CHD4	UTEC	Uterine cancer
+CHIC2	AML	Acute myeloid leukemia
+CHIC2	LEUKEMIA	Leukemia
+CIC	GLIOMA	Glioma
+CIITA	LYMPHOMA	Lymphoma
+CLP1	AML	Acute myeloid leukemia
+CLP1	LEUKEMIA	Leukemia
+CLTC	LYMPHOMA	Lymphoma
+CLTC	RC	Renal cancer
+CLTCL1	LYMPHOMA	Lymphoma
+CNOT3	ALL	Acute lymphoblastic leukemia
+CNOT3	LEUKEMIA	Leukemia
+CNTRL	LYMPHOMA	Lymphoma
+CREBBP	ALL	Acute lymphoblastic leukemia
+CREBBP	LEUKEMIA	Leukemia
+CREBBP	AML	Acute myeloid leukemia
+CREBBP	LEUKEMIA	Leukemia
+CREBBP	LYMPHOMA	Lymphoma
+CREBBP	LYMPHOMA	Lymphoma
+CRLF2	LEUKEMIA	Leukemia
+CRLF2	LEUKEMIA	Leukemia
+CSF3R	LEUKEMIA	Leukemia
+CSF3R	LEUKEMIA	Leukemia
+CSF3R	LEUKEMIA	Leukemia
+CSF3R	AML	Acute myeloid leukemia
+CSF3R	LEUKEMIA	Leukemia
+CTCF	UTEC	Uterine cancer
+CTCF	BREC	Breast cancer
+CTCF	HNC	Head and neck cancer
+CTNNB1	COREC	Colorectal cancer
+CTNNB1	OC	Ovarian cancer 
+CTNNB1	HC	Hepatocarcinoma
+CUX1	UTEC	Uterine cancer
+CUX1	MYELOMA	myeloma 
+CUX1	COREC	Colorectal cancer
+CUX1	AML	Acute myeloid leukemia
+CUX1	LEUKEMIA	Leukemia
+DAXX	PANC	Pancreatic cancer
+DAXX	GLIOMA	Glioma
+DDR2	LC	Lung cancer
+DDR2	NSCLC	Non small cell lung carcinoma
+DDX10	AML	Acute myeloid leukemia
+DDX10	LEUKEMIA	Leukemia
+DDX3X	CLL	Chronic lymphocytic leukemia
+DDX3X	LEUKEMIA	Leukemia
+DDX3X	GLIOMA	Glioma
+DDX3X	MB	Medulloblastoma
+DDX5	PROC	Prostate cancer 
+DDX6	LYMPHOMA	Lymphoma
+DEK	AML	Acute myeloid leukemia
+DEK	LEUKEMIA	Leukemia
+DICER1	THCA	Thyroid carcinoma
+DNAJB1	HC	Hepatocarcinoma
+DNM2	ALL	Acute lymphoblastic leukemia
+DNM2	LEUKEMIA	Leukemia
+DNMT3A	AML	Acute myeloid leukemia
+DNMT3A	LEUKEMIA	Leukemia
+DROSHA	LC	Lung cancer
+DROSHA	NSCLC	Non small cell lung carcinoma
+DROSHA	BLCA	Bladder carcinoma
+ECT2L	LEUKEMIA	Leukemia
+EGFR	GLIOMA	Glioma
+EGFR	LC	Lung cancer
+EGFR	NSCLC	Non small cell lung carcinoma
+EIF3E	COREC	Colorectal cancer
+EIF4A2	LYMPHOMA	Lymphoma
+ELF4	AML	Acute myeloid leukemia
+ELF4	LEUKEMIA	Leukemia
+ELK4	PROC	Prostate cancer 
+ELL	LEUKEMIA	Leukemia
+ELN	LEUKEMIA	Leukemia
+EML4	LC	Lung cancer
+EML4	NSCLC	Non small cell lung carcinoma
+EP300	COREC	Colorectal cancer
+EP300	BREC	Breast cancer
+EP300	PANC	Pancreatic cancer
+EP300	AML	Acute myeloid leukemia
+EP300	LEUKEMIA	Leukemia
+EP300	ALL	Acute lymphoblastic leukemia
+EP300	LEUKEMIA	Leukemia
+EP300	LYMPHOMA	Lymphoma
+EPAS1	GLIOMA	Glioma
+EPS15	ALL	Acute lymphoblastic leukemia
+EPS15	LEUKEMIA	Leukemia
+ERBB2	BREC	Breast cancer
+ERBB2	OC	Ovarian cancer 
+ERBB2	LC	Lung cancer
+ERBB2	NSCLC	Non small cell lung carcinoma
+ERBB2	GASC	Gastric cancer
+ERBB3	COREC	Colorectal cancer
+ERBB3	GASC	Gastric cancer
+ERBB3	HNC	Head and neck cancer
+ERBB3	BLCA	Bladder carcinoma
+ERBB4	MYELOMA	myeloma 
+ERBB4	GASC	Gastric cancer
+ERBB4	LC	Lung cancer
+ERBB4	NSCLC	Non small cell lung carcinoma
+ERC1	THCA	Thyroid carcinoma
+ERG	PROC	Prostate cancer 
+ERG	AML	Acute myeloid leukemia
+ERG	LEUKEMIA	Leukemia
+ESR1	BREC	Breast cancer
+ETNK1	LEUKEMIA	Leukemia
+ETNK1	LEUKEMIA	Leukemia
+ETV1	PROC	Prostate cancer 
+ETV4	PROC	Prostate cancer 
+ETV5	PROC	Prostate cancer 
+ETV6	BREC	Breast cancer
+EWSR1	ALL	Acute lymphoblastic leukemia
+EWSR1	LEUKEMIA	Leukemia
+EZH2	LYMPHOMA	Lymphoma
+EZR	LC	Lung cancer
+EZR	NSCLC	Non small cell lung carcinoma
+FAM131B	GLIOMA	Glioma
+FAM46C	MM	Multiple myeloma
+FAT1	CLL	Chronic lymphocytic leukemia
+FAT1	LEUKEMIA	Leukemia
+FAT1	HNC	Head and neck cancer
+FAT1	PANC	Pancreatic cancer
+FAT4	LYMPHOMA	Lymphoma
+FAT4	PANC	Pancreatic cancer
+FAT4	HNC	Head and neck cancer
+FAT4	MYELOMA	myeloma 
+FAT4	HC	Hepatocarcinoma
+FBXO11	LYMPHOMA	Lymphoma
+FBXW7	COREC	Colorectal cancer
+FBXW7	UTEC	Uterine cancer
+FBXW7	ALL	Acute lymphoblastic leukemia
+FBXW7	LEUKEMIA	Leukemia
+FCGR2B	ALL	Acute lymphoblastic leukemia
+FCGR2B	LEUKEMIA	Leukemia
+FCRL4	LYMPHOMA	Lymphoma
+FES	HNC	Head and neck cancer
+FES	OC	Ovarian cancer 
+FGFR1	LYMPHOMA	Lymphoma
+FGFR1OP	LYMPHOMA	Lymphoma
+FGFR2	GASC	Gastric cancer
+FGFR2	LC	Lung cancer
+FGFR2	NSCLC	Non small cell lung carcinoma
+FGFR2	UTEC	Uterine cancer
+FGFR3	BLCA	Bladder carcinoma
+FGFR3	MM	Multiple myeloma
+FLT3	AML	Acute myeloid leukemia
+FLT3	LEUKEMIA	Leukemia
+FLT3	ALL	Acute lymphoblastic leukemia
+FLT3	LEUKEMIA	Leukemia
+FNBP1	AML	Acute myeloid leukemia
+FNBP1	LEUKEMIA	Leukemia
+FOXA1	BREC	Breast cancer
+FOXA1	PROC	Prostate cancer 
+FOXL2	OC	Ovarian cancer 
+FOXO3	LEUKEMIA	Leukemia
+FOXO4	LEUKEMIA	Leukemia
+FOXP1	ALL	Acute lymphoblastic leukemia
+FOXP1	LEUKEMIA	Leukemia
+FSTL3	LEUKEMIA	Leukemia
+FUBP1	GLIOMA	Glioma
+FUS	AML	Acute myeloid leukemia
+FUS	LEUKEMIA	Leukemia
+GAS7	AML	Acute myeloid leukemia
+GAS7	LEUKEMIA	Leukemia
+GATA1	LEUKEMIA	Leukemia
+GATA2	AML	Acute myeloid leukemia
+GATA2	LEUKEMIA	Leukemia
+GATA3	BREC	Breast cancer
+GMPS	AML	Acute myeloid leukemia
+GMPS	LEUKEMIA	Leukemia
+GNA11	MYELOMA	myeloma 
+GNA11	MELANOMA	melanoma
+GNAQ	MYELOMA	myeloma 
+GNAQ	MELANOMA	melanoma
+GNAS	PANC	Pancreatic cancer
+GOLGA5	THCA	Thyroid carcinoma
+GOPC	GLIOMA	Glioma
+GOPC	OC	Ovarian cancer 
+GPHN	LEUKEMIA	Leukemia
+GRIN2A	MYELOMA	myeloma 
+GRIN2A	COREC	Colorectal cancer
+GRIN2A	GASC	Gastric cancer
+GRIN2A	LC	Lung cancer
+H3F3A	GLIOMA	Glioma
+HERPUD1	PROC	Prostate cancer 
+HIF1A	UTEC	Uterine cancer
+HIF1A	GLIOMA	Glioma
+HIF1A	COREC	Colorectal cancer
+HIF1A	RC	Renal cancer
+HIF1A	LC	Lung cancer
+HIF1A	PANC	Pancreatic cancer
+HIP1	LEUKEMIA	Leukemia
+HIP1	LC	Lung cancer
+HIP1	NSCLC	Non small cell lung carcinoma
+HIST1H3B	GLIOMA	Glioma
+HIST1H4I	LYMPHOMA	Lymphoma
+HLF	ALL	Acute lymphoblastic leukemia
+HLF	LEUKEMIA	Leukemia
+HMGA1	THCA	Thyroid carcinoma
+HMGN2P46	PROC	Prostate cancer 
+HNF1A	HC	Hepatocarcinoma
+HNF1A	HC	Hepatocarcinoma
+HNRNPA2B1	PROC	Prostate cancer 
+HOOK3	THCA	Thyroid carcinoma
+HOXA11	LEUKEMIA	Leukemia
+HOXA13	AML	Acute myeloid leukemia
+HOXA13	LEUKEMIA	Leukemia
+HOXA9	AML	Acute myeloid leukemia
+HOXA9	LEUKEMIA	Leukemia
+HOXC11	AML	Acute myeloid leukemia
+HOXC11	LEUKEMIA	Leukemia
+HOXC13	AML	Acute myeloid leukemia
+HOXC13	LEUKEMIA	Leukemia
+HOXD11	AML	Acute myeloid leukemia
+HOXD11	LEUKEMIA	Leukemia
+HOXD13	AML	Acute myeloid leukemia
+HOXD13	LEUKEMIA	Leukemia
+HSP90AA1	LYMPHOMA	Lymphoma
+HSP90AB1	LYMPHOMA	Lymphoma
+IDH1	GLIOMA	Glioma
+IDH2	GLIOMA	Glioma
+IGH	MM	Multiple myeloma
+IGH	LYMPHOMA	Lymphoma
+IGH	CLL	Chronic lymphocytic leukemia
+IGH	LEUKEMIA	Leukemia
+IGH	LEUKEMIA	Leukemia
+IGH	LYMPHOMA	Lymphoma
+IGH	LYMPHOMA	Lymphoma
+IGK	LYMPHOMA	Lymphoma
+IKBKB	LYMPHOMA	Lymphoma
+IKZF1	ALL	Acute lymphoblastic leukemia
+IKZF1	LEUKEMIA	Leukemia
+IKZF1	LYMPHOMA	Lymphoma
+IL21R	LYMPHOMA	Lymphoma
+IL6ST	HC	Hepatocarcinoma
+IL7R	ALL	Acute lymphoblastic leukemia
+IL7R	LEUKEMIA	Leukemia
+IL7R	LEUKEMIA	Leukemia
+IRF4	MM	Multiple myeloma
+JAK1	ALL	Acute lymphoblastic leukemia
+JAK1	LEUKEMIA	Leukemia
+JAK2	ALL	Acute lymphoblastic leukemia
+JAK2	LEUKEMIA	Leukemia
+JAK2	AML	Acute myeloid leukemia
+JAK2	LEUKEMIA	Leukemia
+JAK2	LEUKEMIA	Leukemia
+JAK3	LEUKEMIA	Leukemia
+JAK3	LEUKEMIA	Leukemia
+JAZF1	UTEC	Uterine cancer
+KAT6A	AML	Acute myeloid leukemia
+KAT6A	LEUKEMIA	Leukemia
+KAT6B	AML	Acute myeloid leukemia
+KAT6B	LEUKEMIA	Leukemia
+KDM5A	AML	Acute myeloid leukemia
+KDM5A	LEUKEMIA	Leukemia
+KDM5C	RC	Renal cancer
+KDM5C	RCCC	Renal clear cell carcinoma
+KDM6A	RC	Renal cancer
+KDM6A	BLCA	Bladder carcinoma
+KDM6A	ESCA	Esophageal carcinoma
+KDM6A	MM	Multiple myeloma
+KDM6A	GLIOMA	Glioma
+KDM6A	MB	Medulloblastoma
+KDM6A	ALL	Acute lymphoblastic leukemia
+KDM6A	LEUKEMIA	Leukemia
+KDR	LC	Lung cancer
+KDR	NSCLC	Non small cell lung carcinoma
+KDSR	LYMPHOMA	Lymphoma
+KEAP1	LC	Lung cancer
+KEAP1	NSCLC	Non small cell lung carcinoma
+KEAP1	BRCA	Breast carcinoma
+KEAP1	BREC	Breast cancer
+KIAA1549	GLIOMA	Glioma
+KIF5B	LC	Lung cancer
+KIF5B	NSCLC	Non small cell lung carcinoma
+KIT	AML	Acute myeloid leukemia
+KIT	LEUKEMIA	Leukemia
+KIT	MELANOMA	melanoma
+KLF6	PROC	Prostate cancer 
+KLF6	GLIOMA	Glioma
+KLK2	PROC	Prostate cancer 
+KMT2A	AML	Acute myeloid leukemia
+KMT2A	LEUKEMIA	Leukemia
+KMT2A	ALL	Acute lymphoblastic leukemia
+KMT2A	LEUKEMIA	Leukemia
+KMT2C	GLIOMA	Glioma
+KMT2C	MB	Medulloblastoma
+KMT2D	GLIOMA	Glioma
+KMT2D	MB	Medulloblastoma
+KMT2D	RC	Renal cancer
+KRAS	PANC	Pancreatic cancer
+KRAS	COREC	Colorectal cancer
+KRAS	LC	Lung cancer
+KRAS	THCA	Thyroid carcinoma
+KRAS	AML	Acute myeloid leukemia
+KRAS	LEUKEMIA	Leukemia
+KTN1	THCA	Thyroid carcinoma
+LASP1	AML	Acute myeloid leukemia
+LASP1	LEUKEMIA	Leukemia
+LCK	ALL	Acute lymphoblastic leukemia
+LCK	LEUKEMIA	Leukemia
+LCP1	LYMPHOMA	Lymphoma
+LEF1	LEUKEMIA	Leukemia
+LEF1	ALL	Acute lymphoblastic leukemia
+LEF1	LEUKEMIA	Leukemia
+LEF1	AML	Acute myeloid leukemia
+LEF1	LEUKEMIA	Leukemia
+LEF1	LYMPHOMA	Lymphoma
+LMO1	ALL	Acute lymphoblastic leukemia
+LMO1	LEUKEMIA	Leukemia
+LMO1	NB	Neuroblastoma
+LMO2	ALL	Acute lymphoblastic leukemia
+LMO2	LEUKEMIA	Leukemia
+LPP	LEUKEMIA	Leukemia
+LRIG3	LC	Lung cancer
+LRIG3	NSCLC	Non small cell lung carcinoma
+LRP1B	CLL	Chronic lymphocytic leukemia
+LRP1B	LEUKEMIA	Leukemia
+LRP1B	OC	Ovarian cancer 
+LRP1B	ESCA	Esophageal carcinoma
+LYL1	ALL	Acute lymphoblastic leukemia
+LYL1	LEUKEMIA	Leukemia
+LZTR1	GLIOMA	Glioma
+MAF	MM	Multiple myeloma
+MAFB	MM	Multiple myeloma
+MALAT1	RC	Renal cancer
+MALAT1	LC	Lung cancer
+MALT1	LYMPHOMA	Lymphoma
+MAP2K1	LC	Lung cancer
+MAP2K1	NSCLC	Non small cell lung carcinoma
+MAP2K1	MYELOMA	myeloma 
+MAP2K1	COREC	Colorectal cancer
+MAP2K2	LC	Lung cancer
+MAP2K2	NSCLC	Non small cell lung carcinoma
+MAP2K2	MYELOMA	myeloma 
+MAP2K4	PANC	Pancreatic cancer
+MAP2K4	BREC	Breast cancer
+MAP2K4	COREC	Colorectal cancer
+MAP3K1	BRCA	Breast carcinoma
+MAP3K1	BREC	Breast cancer
+MAP3K13	BREC	Breast cancer
+MAPK1	CLL	Chronic lymphocytic leukemia
+MAPK1	LEUKEMIA	Leukemia
+MAPK1	OC	Ovarian cancer 
+MAX	UTEC	Uterine cancer
+MAX	COREC	Colorectal cancer
+MDM2	GLIOMA	Glioma
+MDM2	COREC	Colorectal cancer
+MDM4	GLIOMA	Glioma
+MDM4	BLCA	Bladder carcinoma
+MECOM	AML	Acute myeloid leukemia
+MECOM	LEUKEMIA	Leukemia
+MECOM	LEUKEMIA	Leukemia
+MEN1	PANC	Pancreatic cancer
+MET	RC	Renal cancer
+MET	HNC	Head and neck cancer
+MITF	MYELOMA	myeloma 
+MKL1	LEUKEMIA	Leukemia
+MLF1	AML	Acute myeloid leukemia
+MLF1	LEUKEMIA	Leukemia
+MLH1	COREC	Colorectal cancer
+MLH1	UTEC	Uterine cancer
+MLH1	OC	Ovarian cancer 
+MLLT1	LEUKEMIA	Leukemia
+MLLT10	LEUKEMIA	Leukemia
+MLLT11	ALL	Acute lymphoblastic leukemia
+MLLT11	LEUKEMIA	Leukemia
+MLLT3	ALL	Acute lymphoblastic leukemia
+MLLT3	LEUKEMIA	Leukemia
+MLLT4	LEUKEMIA	Leukemia
+MLLT6	LEUKEMIA	Leukemia
+MN1	AML	Acute myeloid leukemia
+MN1	LEUKEMIA	Leukemia
+MNX1	AML	Acute myeloid leukemia
+MNX1	LEUKEMIA	Leukemia
+MSH2	COREC	Colorectal cancer
+MSH2	UTEC	Uterine cancer
+MSH2	OC	Ovarian cancer 
+MSH6	COREC	Colorectal cancer
+MSI2	LEUKEMIA	Leukemia
+MSN	LYMPHOMA	Lymphoma
+MTCP1	LEUKEMIA	Leukemia
+MTOR	UTEC	Uterine cancer
+MTOR	HNC	Head and neck cancer
+MTOR	RC	Renal cancer
+MTOR	RCCC	Renal clear cell carcinoma
+MTOR	THCA	Thyroid carcinoma
+MUC1	LYMPHOMA	Lymphoma
+MYC	LEUKEMIA	Leukemia
+MYCL	LC	Lung cancer
+MYCL	SCLC	Small cell lung carcinoma
+MYCN	NB	Neuroblastoma
+MYD88	LYMPHOMA	Lymphoma
+MYH11	AML	Acute myeloid leukemia
+MYH11	LEUKEMIA	Leukemia
+MYH9	LYMPHOMA	Lymphoma
+NACA	LYMPHOMA	Lymphoma
+NCKIPSD	ALL	Acute lymphoblastic leukemia
+NCKIPSD	LEUKEMIA	Leukemia
+NCOA2	AML	Acute myeloid leukemia
+NCOA2	LEUKEMIA	Leukemia
+NCOA4	THCA	Thyroid carcinoma
+NCOR1	BREC	Breast cancer
+NCOR2	PROC	Prostate cancer 
+NDRG1	PROC	Prostate cancer 
+NF1	GLIOMA	Glioma
+NF2	RC	Renal cancer
+NFE2L2	LC	Lung cancer
+NFE2L2	NSCLC	Non small cell lung carcinoma
+NFE2L2	HNC	Head and neck cancer
+NFKB2	LYMPHOMA	Lymphoma
+NFKBIE	CLL	Chronic lymphocytic leukemia
+NFKBIE	LEUKEMIA	Leukemia
+NFKBIE	MELANOMA	melanoma
+NKX2-1	LC	Lung cancer
+NKX2-1	NSCLC	Non small cell lung carcinoma
+NONO	RC	Renal cancer
+NOTCH1	ALL	Acute lymphoblastic leukemia
+NOTCH1	LEUKEMIA	Leukemia
+NOTCH1	BREC	Breast cancer
+NOTCH1	BLCA	Bladder carcinoma
+NOTCH1	LC	Lung cancer
+NOTCH1	HNC	Head and neck cancer
+NOTCH2	LYMPHOMA	Lymphoma
+NOTCH2	BLCA	Bladder carcinoma
+NPM1	LYMPHOMA	Lymphoma
+NPM1	LEUKEMIA	Leukemia
+NPM1	AML	Acute myeloid leukemia
+NPM1	LEUKEMIA	Leukemia
+NRAS	MYELOMA	myeloma 
+NRAS	MM	Multiple myeloma
+NRAS	AML	Acute myeloid leukemia
+NRAS	LEUKEMIA	Leukemia
+NRAS	THCA	Thyroid carcinoma
+NRG1	LC	Lung cancer
+NRG1	NSCLC	Non small cell lung carcinoma
+NSD1	AML	Acute myeloid leukemia
+NSD1	LEUKEMIA	Leukemia
+NT5C2	ALL	Acute lymphoblastic leukemia
+NT5C2	LEUKEMIA	Leukemia
+NTRK1	THCA	Thyroid carcinoma
+NTRK3	BREC	Breast cancer
+NUMA1	LEUKEMIA	Leukemia
+NUP214	AML	Acute myeloid leukemia
+NUP214	LEUKEMIA	Leukemia
+NUP214	ALL	Acute lymphoblastic leukemia
+NUP214	LEUKEMIA	Leukemia
+NUP98	AML	Acute myeloid leukemia
+NUP98	LEUKEMIA	Leukemia
+NUTM2A	UTEC	Uterine cancer
+NUTM2B	UTEC	Uterine cancer
+OLIG2	ALL	Acute lymphoblastic leukemia
+OLIG2	LEUKEMIA	Leukemia
+P2RY8	LEUKEMIA	Leukemia
+P2RY8	ALL	Acute lymphoblastic leukemia
+P2RY8	LEUKEMIA	Leukemia
+PAFAH1B2	LYMPHOMA	Lymphoma
+PAX5	LYMPHOMA	Lymphoma
+PAX5	ALL	Acute lymphoblastic leukemia
+PAX5	LEUKEMIA	Leukemia
+PAX5	LEUKEMIA	Leukemia
+PAX8	THCA	Thyroid carcinoma
+PBRM1	RC	Renal cancer
+PBRM1	RCCC	Renal clear cell carcinoma
+PBRM1	BREC	Breast cancer
+PBX1	ALL	Acute lymphoblastic leukemia
+PBX1	LEUKEMIA	Leukemia
+PCM1	THCA	Thyroid carcinoma
+PCM1	LEUKEMIA	Leukemia
+PCSK7	LYMPHOMA	Lymphoma
+PDCD1LG2	LYMPHOMA	Lymphoma
+PDGFRA	GLIOMA	Glioma
+PDGFRB	AML	Acute myeloid leukemia
+PDGFRB	LEUKEMIA	Leukemia
+PDGFRB	LEUKEMIA	Leukemia
+PDGFRB	LEUKEMIA	Leukemia
+PER1	AML	Acute myeloid leukemia
+PER1	LEUKEMIA	Leukemia
+PER1	LEUKEMIA	Leukemia
+PHF6	LEUKEMIA	Leukemia
+PHOX2B	NB	Neuroblastoma
+PICALM	ALL	Acute lymphoblastic leukemia
+PICALM	LEUKEMIA	Leukemia
+PICALM	AML	Acute myeloid leukemia
+PICALM	LEUKEMIA	Leukemia
+PIK3CA	COREC	Colorectal cancer
+PIK3CA	GASC	Gastric cancer
+PIK3CA	GLIOMA	Glioma
+PIK3CA	BREC	Breast cancer
+PIK3R1	GLIOMA	Glioma
+PIK3R1	OC	Ovarian cancer 
+PIK3R1	COREC	Colorectal cancer
+PIM1	LYMPHOMA	Lymphoma
+PML	LEUKEMIA	Leukemia
+PML	ALL	Acute lymphoblastic leukemia
+PML	LEUKEMIA	Leukemia
+POLE	COREC	Colorectal cancer
+POLE	UTEC	Uterine cancer
+POLE	GASC	Gastric cancer
+POT1	CLL	Chronic lymphocytic leukemia
+POT1	LEUKEMIA	Leukemia
+POU2AF1	LYMPHOMA	Lymphoma
+PPARG	THCA	Thyroid carcinoma
+PPM1D	GLIOMA	Glioma
+PPM1D	OC	Ovarian cancer 
+PPP2R1A	OC	Ovarian cancer 
+PPP6C	MYELOMA	myeloma 
+PRCC	RC	Renal cancer
+PRDM1	LYMPHOMA	Lymphoma
+PRDM16	AML	Acute myeloid leukemia
+PRDM16	LEUKEMIA	Leukemia
+PREX2	MYELOMA	myeloma 
+PREX2	PAAD	Pancreatic adenocarcinoma
+PREX2	PANC	Pancreatic cancer
+PRKACA	HC	Hepatocarcinoma
+PRKAR1A	THCA	Thyroid carcinoma
+PRRX1	AML	Acute myeloid leukemia
+PRRX1	LEUKEMIA	Leukemia
+PSIP1	AML	Acute myeloid leukemia
+PSIP1	LEUKEMIA	Leukemia
+PTCH1	GLIOMA	Glioma
+PTCH1	MB	Medulloblastoma
+PTEN	GLIOMA	Glioma
+PTEN	PROC	Prostate cancer 
+PTEN	UTEC	Uterine cancer
+PTK6	RC	Renal cancer
+PTK6	GASC	Gastric cancer
+PTK6	HNC	Head and neck cancer
+PTK6	OC	Ovarian cancer 
+PTPN11	LEUKEMIA	Leukemia
+PTPN11	AML	Acute myeloid leukemia
+PTPN11	LEUKEMIA	Leukemia
+PTPN13	LC	Lung cancer
+PTPN13	LC	Lung cancer
+PTPN13	NSCLC	Non small cell lung carcinoma
+PTPN13	GASC	Gastric cancer
+PTPRC	ALL	Acute lymphoblastic leukemia
+PTPRC	LEUKEMIA	Leukemia
+PTPRK	COREC	Colorectal cancer
+PTPRT	HNC	Head and neck cancer
+PTPRT	COREC	Colorectal cancer
+PTPRT	GASC	Gastric cancer
+PTPRT	LC	Lung cancer
+PTPRT	MYELOMA	myeloma 
+QKI	GLIOMA	Glioma
+QKI	COREC	Colorectal cancer
+RABEP1	LEUKEMIA	Leukemia
+RAC1	MYELOMA	myeloma 
+RAD21	AML	Acute myeloid leukemia
+RAD21	LEUKEMIA	Leukemia
+RAD21	UTEC	Uterine cancer
+RAD21	COREC	Colorectal cancer
+RAD21	LC	Lung cancer
+RAF1	GLIOMA	Glioma
+RAF1	PROC	Prostate cancer 
+RALGDS	LYMPHOMA	Lymphoma
+RANBP17	ALL	Acute lymphoblastic leukemia
+RANBP17	LEUKEMIA	Leukemia
+RAP1GDS1	ALL	Acute lymphoblastic leukemia
+RAP1GDS1	LEUKEMIA	Leukemia
+RARA	LEUKEMIA	Leukemia
+RB1	BREC	Breast cancer
+RB1	LC	Lung cancer
+RB1	SCLC	Small cell lung carcinoma
+RBM10	LC	Lung cancer
+RBM10	LUAD	Lung adenocarcinoma
+RBM10	NSCLC	Non small cell lung carcinoma
+RBM15	LEUKEMIA	Leukemia
+RET	THCA	Thyroid carcinoma
+RET	THCA	Thyroid carcinoma
+RET	LC	Lung cancer
+RET	NSCLC	Non small cell lung carcinoma
+RHOA	GASC	Gastric cancer
+RHOH	LYMPHOMA	Lymphoma
+RMI2	LYMPHOMA	Lymphoma
+RNF213	LYMPHOMA	Lymphoma
+RNF217-AS1	LEUKEMIA	Leukemia
+RNF43	OC	Ovarian cancer 
+RNF43	PANC	Pancreatic cancer
+ROS1	GLIOMA	Glioma
+ROS1	LC	Lung cancer
+ROS1	NSCLC	Non small cell lung carcinoma
+ROS1	OC	Ovarian cancer 
+RPL10	ALL	Acute lymphoblastic leukemia
+RPL10	LEUKEMIA	Leukemia
+RPL22	AML	Acute myeloid leukemia
+RPL22	LEUKEMIA	Leukemia
+RPL22	LEUKEMIA	Leukemia
+RPL5	ALL	Acute lymphoblastic leukemia
+RPL5	LEUKEMIA	Leukemia
+RPN1	AML	Acute myeloid leukemia
+RPN1	LEUKEMIA	Leukemia
+RSPO2	COREC	Colorectal cancer
+RSPO3	COREC	Colorectal cancer
+RUNDC2A	LYMPHOMA	Lymphoma
+RUNX1	AML	Acute myeloid leukemia
+RUNX1	LEUKEMIA	Leukemia
+RUNX1	ALL	Acute lymphoblastic leukemia
+RUNX1	LEUKEMIA	Leukemia
+RUNX1	ALL	Acute lymphoblastic leukemia
+RUNX1	LEUKEMIA	Leukemia
+RUNX1T1	AML	Acute myeloid leukemia
+RUNX1T1	LEUKEMIA	Leukemia
+SALL4	COREC	Colorectal cancer
+SALL4	PROC	Prostate cancer 
+SALL4	GLIOMA	Glioma
+SALL4	MYELOMA	myeloma 
+SDC4	LC	Lung cancer
+SDC4	NSCLC	Non small cell lung carcinoma
+SDHA	GLIOMA	Glioma
+SEPT5	AML	Acute myeloid leukemia
+SEPT5	LEUKEMIA	Leukemia
+SEPT6	AML	Acute myeloid leukemia
+SEPT6	LEUKEMIA	Leukemia
+SEPT9	AML	Acute myeloid leukemia
+SEPT9	LEUKEMIA	Leukemia
+SET	AML	Acute myeloid leukemia
+SET	LEUKEMIA	Leukemia
+SETBP1	LEUKEMIA	Leukemia
+SETBP1	AML	Acute myeloid leukemia
+SETBP1	LEUKEMIA	Leukemia
+SETBP1	LEUKEMIA	Leukemia
+SETBP1	LEUKEMIA	Leukemia
+SETD2	RC	Renal cancer
+SETD2	RCCC	Renal clear cell carcinoma
+SFPQ	RC	Renal cancer
+SFRP4	COREC	Colorectal cancer
+SFRP4	MYELOMA	myeloma 
+SFRP4	GASC	Gastric cancer
+SFRP4	ESCA	Esophageal carcinoma
+SH2B3	AML	Acute myeloid leukemia
+SH2B3	LEUKEMIA	Leukemia
+SH2B3	LEUKEMIA	Leukemia
+SH3GL1	LEUKEMIA	Leukemia
+SLC34A2	LC	Lung cancer
+SLC34A2	NSCLC	Non small cell lung carcinoma
+SLC45A3	PROC	Prostate cancer 
+SMAD2	COREC	Colorectal cancer
+SMAD2	HC	Hepatocarcinoma
+SMAD3	COREC	Colorectal cancer
+SMAD3	HC	Hepatocarcinoma
+SMAD4	COREC	Colorectal cancer
+SMAD4	PANC	Pancreatic cancer
+SMARCA4	LC	Lung cancer
+SMARCA4	NSCLC	Non small cell lung carcinoma
+SMARCA4	OC	Ovarian cancer 
+SMARCD1	BREC	Breast cancer
+SND1	PANC	Pancreatic cancer
+SOCS1	LYMPHOMA	Lymphoma
+SOX2	LC	Lung cancer
+SOX2	NSCLC	Non small cell lung carcinoma
+SOX2	ESCA	Esophageal carcinoma
+SPECC1	LEUKEMIA	Leukemia
+SPEN	LYMPHOMA	Lymphoma
+SPEN	LYMPHOMA	Lymphoma
+SPOP	PROC	Prostate cancer 
+SPOP	UTEC	Uterine cancer
+SRC	COREC	Colorectal cancer
+SRC	UTEC	Uterine cancer
+SRGAP3	GLIOMA	Glioma
+SRSF2	CLL	Chronic lymphocytic leukemia
+SRSF2	LEUKEMIA	Leukemia
+STAG2	BLCA	Bladder carcinoma
+STAG2	GLIOMA	Glioma
+STAG2	MYELOMA	myeloma 
+STAT3	LEUKEMIA	Leukemia
+STAT5B	LEUKEMIA	Leukemia
+STAT5B	LEUKEMIA	Leukemia
+STIL	ALL	Acute lymphoblastic leukemia
+STIL	LEUKEMIA	Leukemia
+STK11	LC	Lung cancer
+STK11	NSCLC	Non small cell lung carcinoma
+STK11	PANC	Pancreatic cancer
+STRN	THCA	Thyroid carcinoma
+STRN	THCA	Thyroid carcinoma
+STRN	LC	Lung cancer
+SUFU	GLIOMA	Glioma
+SUFU	MB	Medulloblastoma
+SUZ12	UTEC	Uterine cancer
+TAF15	ALL	Acute lymphoblastic leukemia
+TAF15	LEUKEMIA	Leukemia
+TAL1	LEUKEMIA	Leukemia
+TAL2	ALL	Acute lymphoblastic leukemia
+TAL2	LEUKEMIA	Leukemia
+TBL1XR1	COREC	Colorectal cancer
+TBX3	BREC	Breast cancer
+TCF3	ALL	Acute lymphoblastic leukemia
+TCF3	LEUKEMIA	Leukemia
+TCF7L2	COREC	Colorectal cancer
+TCL1A	CLL	Chronic lymphocytic leukemia
+TCL1A	LEUKEMIA	Leukemia
+TCL6	ALL	Acute lymphoblastic leukemia
+TCL6	LEUKEMIA	Leukemia
+TERT	MYELOMA	myeloma 
+TERT	GLIOMA	Glioma
+TERT	HC	Hepatocarcinoma
+TERT	BLCA	Bladder carcinoma
+TERT	GLIOMA	Glioma
+TERT	MB	Medulloblastoma
+TET1	AML	Acute myeloid leukemia
+TET1	LEUKEMIA	Leukemia
+TFE3	RC	Renal cancer
+TFE3	RC	Renal cancer
+TFEB	RC	Renal cancer
+TFG	THCA	Thyroid carcinoma
+TFG	LYMPHOMA	Lymphoma
+TFG	LC	Lung cancer
+TFG	NSCLC	Non small cell lung carcinoma
+TFPT	ALL	Acute lymphoblastic leukemia
+TFPT	LEUKEMIA	Leukemia
+TFRC	LYMPHOMA	Lymphoma
+TGFBR2	HNC	Head and neck cancer
+TGFBR2	COREC	Colorectal cancer
+TLX1	ALL	Acute lymphoblastic leukemia
+TLX1	LEUKEMIA	Leukemia
+TLX3	ALL	Acute lymphoblastic leukemia
+TLX3	LEUKEMIA	Leukemia
+TMPRSS2	PROC	Prostate cancer 
+TNFAIP3	LYMPHOMA	Lymphoma
+TOP1	AML	Acute myeloid leukemia
+TOP1	LEUKEMIA	Leukemia
+TP53	BREC	Breast cancer
+TP53	COREC	Colorectal cancer
+TP53	LC	Lung cancer
+TP53	GLIOMA	Glioma
+TP63	HNC	Head and neck cancer
+TP63	LYMPHOMA	Lymphoma
+TPM3	THCA	Thyroid carcinoma
+TPM3	LYMPHOMA	Lymphoma
+TPM3	LC	Lung cancer
+TPM3	NSCLC	Non small cell lung carcinoma
+TPM4	LYMPHOMA	Lymphoma
+TPR	THCA	Thyroid carcinoma
+TPR	LC	Lung cancer
+TPR	NSCLC	Non small cell lung carcinoma
+TRA	ALL	Acute lymphoblastic leukemia
+TRA	LEUKEMIA	Leukemia
+TRB	ALL	Acute lymphoblastic leukemia
+TRB	LEUKEMIA	Leukemia
+TRD	LEUKEMIA	Leukemia
+TRIM24	LEUKEMIA	Leukemia
+TRIM27	THCA	Thyroid carcinoma
+TRIM33	THCA	Thyroid carcinoma
+TRIP11	AML	Acute myeloid leukemia
+TRIP11	LEUKEMIA	Leukemia
+TRRAP	MYELOMA	myeloma 
+TSC1	RC	Renal cancer
+TSC1	BLCA	Bladder carcinoma
+TSC2	HNC	Head and neck cancer
+TSHR	THCA	Thyroid carcinoma
+TTL	ALL	Acute lymphoblastic leukemia
+TTL	LEUKEMIA	Leukemia
+U2AF1	CLL	Chronic lymphocytic leukemia
+U2AF1	LEUKEMIA	Leukemia
+UBR5	GASC	Gastric cancer
+UBR5	COREC	Colorectal cancer
+VHL	RC	Renal cancer
+VTI1A	COREC	Colorectal cancer
+WHSC1	MM	Multiple myeloma
+WHSC1L1	AML	Acute myeloid leukemia
+WHSC1L1	LEUKEMIA	Leukemia
+WT1	RC	Renal cancer
+XPO1	CLL	Chronic lymphocytic leukemia
+XPO1	LEUKEMIA	Leukemia
+YWHAE	UTEC	Uterine cancer
+ZBTB16	LEUKEMIA	Leukemia
+ZFHX3	UTEC	Uterine cancer
+ZFHX3	GASC	Gastric cancer
+ZFHX3	PROC	Prostate cancer 
+ZNF198	LYMPHOMA	Lymphoma
+ZNF331	THCA	Thyroid carcinoma
+ZNF384	ALL	Acute lymphoblastic leukemia
+ZNF384	LEUKEMIA	Leukemia
+ZNF521	ALL	Acute lymphoblastic leukemia
+ZNF521	LEUKEMIA	Leukemia
+ZRSR2	CLL	Chronic lymphocytic leukemia
+ZRSR2	LEUKEMIA	Leukemia
