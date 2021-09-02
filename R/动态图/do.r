@@ -1,0 +1,6 @@
+tmp = commandArgs(T)
+library(ggplot2)
+pdf(tmp[2],height = 15,width = 13)
+data = read.table(tmp[1],header = T)
+ggplot(data,aes(y=pats,x=time,colour=kind,shape=kind))+ geom_point(size=3)+scale_shape_manual(values = c(4,0,15,1,16,2,17)) +  scale_colour_manual(values = c("black","#E64B35FF","#E64B35FF","#4DBBD5FF","#4DBBD5FF","#00A087FF","#00A087FF"))+theme_bw()
+dev.off()

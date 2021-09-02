@@ -1,0 +1,16 @@
+"statistic"	"signif.level"	"dif.com.obs.dif"	"dif.com.critical.dif"	"dif.com.difference"
+"ERV1-ERV2"	"Multiple comparison test after Kruskal-Wallis"	0.05	0.727272727272727	24.0256431084866	FALSE
+"ERV1-ERV3"	"Multiple comparison test after Kruskal-Wallis"	0.05	8.09090909090909	24.0256431084866	FALSE
+"ERV1-L1"	"Multiple comparison test after Kruskal-Wallis"	0.05	2.72727272727273	24.0256431084866	FALSE
+"ERV1-SINE1/7SL"	"Multiple comparison test after Kruskal-Wallis"	0.05	14.3636363636364	24.0256431084866	FALSE
+"ERV1-SINE2/tRNA"	"Multiple comparison test after Kruskal-Wallis"	0.05	16.9090909090909	24.0256431084866	FALSE
+"ERV2-ERV3"	"Multiple comparison test after Kruskal-Wallis"	0.05	7.36363636363636	24.0256431084866	FALSE
+"ERV2-L1"	"Multiple comparison test after Kruskal-Wallis"	0.05	2	24.0256431084866	FALSE
+"ERV2-SINE1/7SL"	"Multiple comparison test after Kruskal-Wallis"	0.05	13.6363636363636	24.0256431084866	FALSE
+"ERV2-SINE2/tRNA"	"Multiple comparison test after Kruskal-Wallis"	0.05	16.1818181818182	24.0256431084866	FALSE
+"ERV3-L1"	"Multiple comparison test after Kruskal-Wallis"	0.05	5.36363636363636	24.0256431084866	FALSE
+"ERV3-SINE1/7SL"	"Multiple comparison test after Kruskal-Wallis"	0.05	6.27272727272727	24.0256431084866	FALSE
+"ERV3-SINE2/tRNA"	"Multiple comparison test after Kruskal-Wallis"	0.05	8.81818181818182	24.0256431084866	FALSE
+"L1-SINE1/7SL"	"Multiple comparison test after Kruskal-Wallis"	0.05	11.6363636363636	24.0256431084866	FALSE
+"L1-SINE2/tRNA"	"Multiple comparison test after Kruskal-Wallis"	0.05	14.1818181818182	24.0256431084866	FALSE
+"SINE1/7SL-SINE2/tRNA"	"Multiple comparison test after Kruskal-Wallis"	0.05	2.54545454545455	24.0256431084866	FALSE
